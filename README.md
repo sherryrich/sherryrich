@@ -8,6 +8,8 @@ I'm Richard, a Junior Software Developer from Dublin, Ireland. Currently studyin
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" />
 
+## Contact
+[<img src="assets/images/linkedin_logo.png" alt="CSS logo" width="50px" height="50px">](https://www.linkedin.com/in/richardsherry1/)
 
 
 <!--
