@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Richard, a Junior Software Developer from Dublin, Ireland. Currently studying with [Code Institute](https://codeinstitute.net/ie/) and working toward a Diploma in Full Stack Software Development.
+
+## Stack
+
+### Languages Learned
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" />
+
+
+
 <!--
 **sherryrich/sherryrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
