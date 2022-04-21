@@ -11,7 +11,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git logo" width="50px" height="50px" />
 
 ### Currently Learning
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50px" height="50px" /><img                                                                                                                         
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50px" height="50px" />                                                                                                                      
                                                                                                                                                     
                                                                                                                                                     
 ## Contact
