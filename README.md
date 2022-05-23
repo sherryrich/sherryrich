@@ -12,7 +12,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmar
 
 ### Currently Learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JavaScript logo" width="50px" height="50px" />                                                                                                                      
-                                                                                                                                                    
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Code+Institute+Student;Always+learning)](https://git.iotyping-svg)                                                                                                                                                  
                                                                                                                                                     
 ## Contact
 [<img src="assets/images/linedin_logo.png" alt="CSS logo" width="50px" height="50px">](https://www.linkedin.com/in/richardsherry1/)
