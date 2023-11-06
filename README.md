@@ -6,12 +6,13 @@ I'm Richard, a Software Developer from Dublin, Ireland. Currently studying with 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" /><img
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /><img
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django logo" width="50px" height="50px" />                           
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django logo" width="50px" height="50px" />                       
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" height="50px" />   
 
 ## Currently Sudying
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" height="50px" />     
+### https://webdriver.io/ 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Code+Institute+Student;Always+learning)](https://git.iotyping-svg)                                                                                                                                                  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Next-gen browser and mobile automation)](https://git.iotyping-svg)                                                                                                                                                  
                                                                                                                                                     
 ## Contact
 [<img src="assets/images/linedin_logo.png" alt="CSS logo" width="50px" height="50px">](https://www.linkedin.com/in/richardsherry1/)
