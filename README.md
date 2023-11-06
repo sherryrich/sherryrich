@@ -10,7 +10,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmar
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="50px" height="50px" />   
 
 ## Currently Sudying
-### https://webdriver.io/ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Next-gen browser and mobile automation)](https://git.iotyping-svg)                                                                                                                                                  
                                                                                                                                                     
