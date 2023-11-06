@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Richard, a Software Developer from Dublin, Ireland. Currently studying with [Code Institute](https://codeinstitute.net/ie/) and working toward a Diploma in Full Stack Software Development.
+I'm Richard, a QA Automation Engineer / Software Developer from Dublin, Ireland. Graduate of [Code Institute](https://codeinstitute.net/ie/) with d a Diploma in Full Stack Software Development.
 
 ## Stack
 
